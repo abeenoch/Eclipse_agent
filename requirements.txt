@@ -1,0 +1,4 @@
+phidata
+fastapi
+tavily-python
+crawl4ai
